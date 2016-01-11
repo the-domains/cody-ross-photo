@@ -1,6 +1,6 @@
 name: Cody Ross Photo
 favicon: null
-layout_spectrum: 0.6199075146578252
+layout_spectrum: 1
 typography_spectrum: 0.7524670271668583
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8134843937586993
+  brandStrength: 0.5
   lightness: 0.8670342965051532
   saturation: 0.27694402099587023
   rhythmicContrast: 0.6158593236468732
